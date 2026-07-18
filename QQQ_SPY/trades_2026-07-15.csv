@@ -1,0 +1,2 @@
+ts,event,ticker,option,contracts,limit,dte,rating,align,score,order_id,entry,exit,pnl_usd,reason,m_rating,m_align,m_score,m_delta,m_iv,m_spread_pct
+2026-07-15T10:05:12,entry_blocked,QQQ,QQQ260716C00715000,,,,,,,,,,,premium 7.22 exceeds per-trade risk budget,,,,,,

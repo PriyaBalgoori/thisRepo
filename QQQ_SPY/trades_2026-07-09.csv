@@ -1,0 +1,3 @@
+ts,event,ticker,option,contracts,limit,dte,rating,align,score,order_id,entry,exit,pnl_usd,reason,m_rating,m_align,m_score,m_delta,m_iv,m_spread_pct
+2026-07-09T12:18:31,entry,SPY,SPY260709C00749000,2,1.7,0,7,RIDE_both,0.7712,DRY,,,,,,,,,,
+2026-07-09T15:45:00,exit,SPY,SPY260709C00749000,2,,,,,,DRY,1.7,2.09,78.0,eod_flat,7,RIDE_both,0.7712,0.656,0.145,0.0118

@@ -1,0 +1,21 @@
+ts,event,ticker,side,rating,price,atr,align,reason,option_symbol,expiration,dte,strike,opt_type,bid,ask,mid,spread_pct,delta,theta,mid_iv,open_interest,volume,breakeven_move,gates,score,rejected,sig_ticker,sig_side,sig_rating,sig_align
+2026-07-09T12:10:23,signal,SPY,BUY,7,748.27,0.85,RIDE_both,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-09T12:10:25,candidate,,,,,,,,SPY260709C00746000,2026-07-09,0,746.0,call,4.02,4.04,4.03,0.005,0.799,-0.7477,0.1928,8875,73088,1.76,spread=P;open_interest=P;volume=P;iv=P;breakeven=F,-1.0,breakeven,SPY,BUY,7,RIDE_both
+2026-07-09T12:10:25,candidate,,,,,,,,SPY260709C00747000,2026-07-09,0,747.0,call,3.1,3.11,3.105,0.0032,0.708,-1.0693,0.1858,6284,155530,1.835,spread=P;open_interest=P;volume=P;iv=P;breakeven=F,-1.0,breakeven,SPY,BUY,7,RIDE_both
+2026-07-09T12:10:25,candidate,,,,,,,,SPY260709C00748000,2026-07-09,0,748.0,call,2.23,2.26,2.245,0.0134,0.585,-0.9823,0.1781,5200,287742,1.975,spread=P;open_interest=P;volume=P;iv=P;breakeven=F,-1.0,breakeven,SPY,BUY,7,RIDE_both
+2026-07-09T12:10:25,candidate,,,,,,,,SPY260710C00744000,2026-07-10,1,744.0,call,6.73,6.77,6.75,0.0059,0.778,-1.1086,0.1483,2197,1038,2.48,spread=P;open_interest=P;volume=P;iv=P;breakeven=F,-1.0,breakeven,SPY,BUY,7,RIDE_both
+2026-07-09T12:10:25,candidate,,,,,,,,SPY260710C00745000,2026-07-10,1,745.0,call,5.84,5.89,5.865,0.0085,0.724,-1.1379,0.1539,6862,5490,2.595,spread=P;open_interest=P;volume=P;iv=P;breakeven=F,-1.0,breakeven,SPY,BUY,7,RIDE_both
+2026-07-09T12:10:25,candidate,,,,,,,,SPY260710C00746000,2026-07-10,1,746.0,call,5.0,5.05,5.025,0.01,0.675,-1.1527,0.1488,5781,10434,2.755,spread=P;open_interest=P;volume=P;iv=P;breakeven=F,-1.0,breakeven,SPY,BUY,7,RIDE_both
+2026-07-09T12:10:25,candidate,,,,,,,,SPY260710C00747000,2026-07-10,1,747.0,call,4.2,4.24,4.22,0.0095,0.619,-1.1454,0.1435,7032,20213,2.95,spread=P;open_interest=P;volume=P;iv=P;breakeven=F,-1.0,breakeven,SPY,BUY,7,RIDE_both
+2026-07-09T12:10:25,candidate,,,,,,,,SPY260710C00747500,2026-07-10,1,747.5,call,3.81,3.86,3.835,0.013,0.59,-1.133,0.1424,2087,12958,3.065,spread=P;open_interest=P;volume=P;iv=P;breakeven=F,-1.0,breakeven,SPY,BUY,7,RIDE_both
+2026-07-09T12:10:25,candidate,,,,,,,,SPY260710C00748000,2026-07-10,1,748.0,call,3.44,3.48,3.46,0.0116,0.558,-1.1133,0.1401,9230,39448,3.19,spread=P;open_interest=P;volume=P;iv=P;breakeven=F,-1.0,breakeven,SPY,BUY,7,RIDE_both
+2026-07-09T12:10:25,no_trade,SPY,,,,,,no contract passed gates (see decision log),,,,,,,,,,,,,,,,,,,,,,
+2026-07-09T12:18:29,signal,SPY,BUY,7,750.54,0.85,RIDE_both,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-09T12:18:31,candidate,,,,,,,,SPY260709C00748000,2026-07-09,0,748.0,call,2.51,2.53,2.52,0.0079,0.755,-0.3784,0.1606,5200,289564,-0.02,spread=P;open_interest=P;volume=P;iv=P;breakeven=P,0.7049,,SPY,BUY,7,RIDE_both
+2026-07-09T12:18:31,candidate,,,,,,,,SPY260709C00749000,2026-07-09,0,749.0,call,1.69,1.71,1.7,0.0118,0.656,-0.4952,0.145,6377,431707,0.16,spread=P;open_interest=P;volume=P;iv=P;breakeven=P,0.7712,,SPY,BUY,7,RIDE_both
+2026-07-09T12:18:31,candidate,,,,,,,,SPY260710C00746000,2026-07-10,1,746.0,call,5.35,5.4,5.375,0.0093,0.766,-0.7557,0.1435,5781,10645,0.835,spread=P;open_interest=P;volume=P;iv=P;breakeven=P,0.596,,SPY,BUY,7,RIDE_both
+2026-07-09T12:18:31,candidate,,,,,,,,SPY260710C00747000,2026-07-10,1,747.0,call,4.53,4.58,4.555,0.011,0.719,-0.8846,0.1365,7032,20301,1.015,spread=P;open_interest=P;volume=P;iv=P;breakeven=P,0.6102,,SPY,BUY,7,RIDE_both
+2026-07-09T12:18:31,candidate,,,,,,,,SPY260710C00747500,2026-07-10,1,747.5,call,4.13,4.18,4.155,0.012,0.69,-0.9005,0.135,2087,12997,1.115,spread=P;open_interest=P;volume=P;iv=P;breakeven=F,-1.0,breakeven,SPY,BUY,7,RIDE_both
+2026-07-09T12:18:31,candidate,,,,,,,,SPY260710C00748000,2026-07-10,1,748.0,call,3.75,3.78,3.765,0.008,0.659,-0.914,0.1321,9230,39575,1.225,spread=P;open_interest=P;volume=P;iv=P;breakeven=F,-1.0,breakeven,SPY,BUY,7,RIDE_both
+2026-07-09T12:18:31,candidate,,,,,,,,SPY260710C00749000,2026-07-10,1,749.0,call,3.03,3.05,3.04,0.0066,0.59,-0.9313,0.1267,5457,42276,1.5,spread=P;open_interest=P;volume=P;iv=P;breakeven=F,-1.0,breakeven,SPY,BUY,7,RIDE_both
+2026-07-09T12:18:31,candidate,,,,,,,,SPY260710C00750000,2026-07-10,1,750.0,call,2.38,2.39,2.385,0.0042,0.512,-0.9299,0.1224,22521,78027,1.845,spread=P;open_interest=P;volume=P;iv=P;breakeven=F,-1.0,breakeven,SPY,BUY,7,RIDE_both

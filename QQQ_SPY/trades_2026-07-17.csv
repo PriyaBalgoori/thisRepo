@@ -1,0 +1,5 @@
+ts,event,ticker,option,contracts,limit,dte,rating,align,score,order_id,entry,exit,pnl_usd,reason,m_rating,m_align,m_score,m_delta,m_iv,m_spread_pct
+2026-07-17T10:45:02,entry,SPY,SPY260717P00747000,2,1.82,0,-7,RIDE_both,0.6748,DRY,,,,,,,,,,
+2026-07-17T10:50:00,entry,QQQ,QQQ260717P00697000,1,3.17,0,-7,RIDE_both,0.6236,DRY,,,,,,,,,,
+2026-07-17T12:10:09,exit,QQQ,QQQ260717P00697000,1,,,,,,DRY,3.17,1.8,-137.0,stop_loss -43%,-7,RIDE_both,0.6236,0.697,0.3929,0.0126
+2026-07-17T13:26:55,exit,SPY,SPY260717P00747000,2,,,,,,DRY,1.82,1.08,-148.0,stop_loss -41%,-7,RIDE_both,0.6748,0.691,0.226,0.0055

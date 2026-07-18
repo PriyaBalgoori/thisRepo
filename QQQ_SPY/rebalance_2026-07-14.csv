@@ -1,0 +1,3 @@
+ts,event,symbol,target_w,target_shares,have_shares,delta,side,qty,limit,order_id,note,w_long,w_short,votes
+2026-07-14T15:47:36,skip_dust,SQQQ,-0.0,0,0,0,,,,,,0.61,-0.0,{}
+2026-07-14T15:47:36,rebalance,TQQQ,0.61,812,0,812,buy,812,75.09,DRY,,0.61,-0.0,{}
