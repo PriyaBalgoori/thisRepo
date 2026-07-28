@@ -1,0 +1,6 @@
+ts,event,ticker,option,contracts,limit,dte,rating,align,score,order_id,entry,exit,pnl_usd,reason,m_rating,m_align,m_score,m_delta,m_iv,m_spread_pct
+2026-07-27T10:15:06,entry_blocked,QQQ,QQQ260728P00690000,,,,,,,,,,,premium 6.68 exceeds per-trade risk budget,,,,,,
+2026-07-27T10:30:03,entry_blocked,SPY,SPY260729P00744000,,,,,,,,,,,premium 5.57 exceeds per-trade risk budget,,,,,,
+2026-07-27T12:55:03,entry_blocked,SPY,SPY260729P00743000,,,,,,,,,,,premium 5.94 exceeds per-trade risk budget,,,,,,
+2026-07-27T13:00:03,entry_blocked,QQQ,QQQ260729P00688000,,,,,,,,,,,premium 10.46 exceeds per-trade risk budget,,,,,,
+2026-07-27T14:40:02,entry_blocked,SPY,SPY260728P00742000,,,,,,,,,,,premium 5.50 exceeds per-trade risk budget,,,,,,

@@ -1,0 +1,14 @@
+ts,event,ticker,side,rating,price,atr,align,reason,option_symbol,expiration,dte,strike,opt_type,bid,ask,mid,spread_pct,delta,theta,mid_iv,open_interest,volume,breakeven_move,gates,score,rejected,sig_ticker,sig_side,sig_rating,sig_align
+2026-07-24T09:45:09,signal,QQQ,SELL,-7,689.13,1.2938,RIDE_both,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-24T09:45:11,candidate,,,,,,,,QQQ260724P00693000,2026-07-24,0,693.0,put,4.4,4.52,4.46,0.0269,0.523,-2.2169,0.2993,4665,60,0.59,spread=P;open_interest=P;volume=F;iv=P;breakeven=P,-1.0,volume,QQQ,SELL,-7,RIDE_both
+2026-07-24T09:45:11,candidate,,,,,,,,QQQ260724P00694000,2026-07-24,0,694.0,put,5.0,5.2,5.1,0.0392,0.56,-2.1295,0.2907,4928,51,0.23,spread=P;open_interest=P;volume=F;iv=P;breakeven=P,-1.0,volume,QQQ,SELL,-7,RIDE_both
+2026-07-24T09:45:11,candidate,,,,,,,,QQQ260724P00695000,2026-07-24,0,695.0,put,5.67,5.89,5.78,0.0381,0.598,-2.0274,0.2855,9554,112,-0.09,spread=P;open_interest=P;volume=P;iv=P;breakeven=P,0.5022,,QQQ,SELL,-7,RIDE_both
+2026-07-24T09:45:11,candidate,,,,,,,,QQQ260724P00696000,2026-07-24,0,696.0,put,6.55,6.6,6.575,0.0076,0.626,-1.912,0.293,1467,2,-0.295,spread=P;open_interest=P;volume=F;iv=P;breakeven=P,-1.0,volume,QQQ,SELL,-7,RIDE_both
+2026-07-24T09:45:11,candidate,,,,,,,,QQQ260724P00697000,2026-07-24,0,697.0,put,7.15,7.45,7.3,0.0411,0.672,-1.6479,0.2721,2926,1,-0.57,spread=P;open_interest=P;volume=F;iv=P;breakeven=P,-1.0,volume,QQQ,SELL,-7,RIDE_both
+2026-07-24T09:45:11,candidate,,,,,,,,QQQ260724P00698000,2026-07-24,0,698.0,put,7.96,8.25,8.105,0.0358,0.708,-1.3842,0.32,4157,1,-0.765,spread=P;open_interest=P;volume=F;iv=P;breakeven=P,-1.0,volume,QQQ,SELL,-7,RIDE_both
+2026-07-24T09:45:11,candidate,,,,,,,,QQQ260724P00699000,2026-07-24,0,699.0,put,8.8,9.39,9.095,0.0649,0.734,-1.1523,0.2749,4012,4,-0.775,spread=F;open_interest=P;volume=F;iv=P;breakeven=P,-1.0,spread,QQQ,SELL,-7,RIDE_both
+2026-07-24T09:45:11,candidate,,,,,,,,QQQ260724P00700000,2026-07-24,0,700.0,put,8.39,12.01,10.2,0.3549,0.773,-0.9521,0.3114,25489,15,-0.67,spread=F;open_interest=P;volume=F;iv=P;breakeven=P,-1.0,spread,QQQ,SELL,-7,RIDE_both
+2026-07-24T12:55:04,signal,QQQ,SELL,-7,688.8101,1.2355,RIDE_both,,,,,,,,,,,,,,,,,,,,,,,
+2026-07-24T12:55:05,candidate,,,,,,,,QQQ260724P00692000,2026-07-24,0,692.0,put,2.59,2.6,2.595,0.0039,0.563,-0.8661,0.2695,6945,42165,-0.595,spread=P;open_interest=P;volume=P;iv=P;breakeven=P,0.655,,QQQ,SELL,-7,RIDE_both
+2026-07-24T12:55:05,candidate,,,,,,,,QQQ260724P00693000,2026-07-24,0,693.0,put,3.32,3.36,3.34,0.012,0.663,-0.5709,0.266,4665,14251,-0.85,spread=P;open_interest=P;volume=P;iv=P;breakeven=P,0.8416,,QQQ,SELL,-7,RIDE_both
+2026-07-24T12:55:05,candidate,,,,,,,,QQQ260724P00694000,2026-07-24,0,694.0,put,4.13,4.28,4.205,0.0357,0.751,-0.3693,0.2639,4928,9022,-0.985,spread=P;open_interest=P;volume=P;iv=P;breakeven=P,0.5782,,QQQ,SELL,-7,RIDE_both
